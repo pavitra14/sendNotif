@@ -67,7 +67,7 @@ class sendNotif {
             'data' => $this->notification
         );
         $this->headers = array(
-            'Authorization: key=' . $api_key,
+            'Authorization: key=' . $this->api_key,
             'Content-Type: application/json'
         );
         $ch = curl_init();
