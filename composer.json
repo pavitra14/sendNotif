@@ -1,0 +1,17 @@
+{
+	"name": "pavitra14/sendNotif",
+	"type": "library",
+	"keywords": ["gcm","fcm","push","notifications"],
+	"homepage": "https://github.com/pavitra14/sendNotif",
+	"license": "MIT",
+	"authors": [{
+		"name": "Pavitra Behre",
+		"email": "me@pbehre.in",
+		"homepage": "http://pbehre.in",
+		"role": "Developer"
+	}],
+	"description": "Send push notifications using Google's FCM via PHP",
+	"require": {
+		"php": "^5.3.3 || ^7.0"
+	}
+}
